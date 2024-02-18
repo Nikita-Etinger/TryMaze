@@ -1,0 +1,15 @@
+G:\project\CSH\tryMaze3\bin\Debug\tryMaze3.exe.config
+G:\project\CSH\tryMaze3\bin\Debug\tryMaze3.exe
+G:\project\CSH\tryMaze3\bin\Debug\tryMaze3.pdb
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.csproj.AssemblyReference.cache
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.Form1.resources
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.Properties.Resources.resources
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.csproj.GenerateResource.cache
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.csproj.CoreCompileInputs.cache
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.exe
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.pdb
+G:\project\CSH\tryMaze3\bin\Debug\Newtonsoft.Json.dll
+G:\project\CSH\tryMaze3\bin\Debug\Newtonsoft.Json.xml
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.Game.resources
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.PLAY.resources
+G:\project\CSH\tryMaze3\obj\Debug\tryMaze3.csproj.CopyComplete
